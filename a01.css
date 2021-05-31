@@ -1,0 +1,52 @@
+.container {
+    width: 30%;
+    height: 900px;
+    background: #dce2d8;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    padding: 20px;
+    
+}
+h1:hover {
+    color: #5b9c32;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+input {
+    text-align: center;
+    margin-left: 110px;
+    width: 50%;
+    height: 4%;
+    color: red;
+
+}
+
+button {
+    text-align: center;
+    margin-left: 160px;
+    width: 30%;
+    height: 8%;
+    background: #22c422;
+
+}
+
+.mau {
+    color: red;
+}
+
+.mau1 {
+    color: red;
+}
+
+
+button:hover {
+    color: green;
+    background: #66EA14;
+}
